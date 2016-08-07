@@ -1,1 +1,1 @@
-# GeneticAlgorithm_BooleanArray
+# GeneticAlgorithm
